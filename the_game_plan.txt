@@ -1,6 +1,6 @@
 The experiment in question examines encoding variability which posits that memory for an event/item/etc is improved by experiencing it on multiple occassions or in different manners. The idea is that this differential experience creates different representations of said memory which build off of each other to form a stronger representation.
 
-In our experiment, variable encoding is encouraged by repeatedly presenting an image, but with different areas obsscured by a mask (The idea is that covering up portions of the image encourages participants to look at other areas, thus experiencing the image differently each viewing). We can manipulate how much of the image is obscured. The intent behind this manipulation is that obscuring more causes them to scan different areas of the image. If this is the case, then our question is, paradoxically, do participants form a better memory for an image if we show them less of it during study?
+In our experiment, variable encoding is encouraged by repeatedly presenting an image, but with different areas obsscured by a mask (The idea is that covering up portions of the image encourages participants to look at other areas, thus experiencing the image differently each viewing). We can manipulate how much of the image is obscured (i use obscure and degredation interchangeably). The intent behind this manipulation is that obscuring more causes them to scan different areas of the image. If this is the case, then our question is, paradoxically, do participants form a better memory for an image if we show them less of it during study?
 
 At test, we present participants with a series of images. Some are images shown during study. Some are similar lures.
 
@@ -23,3 +23,5 @@ compute dprime for each level of degredation for each participant
 compute the average dprime for each level of degredation
 
 run analysis comparing dprime for images shown with no degredation to dprime for each degredation condition. Anova and post-hoc t-tests should do the trick for a first pass.
+
+Does dprime increase with increasing levels of degredation? Is dprime for any level of degredation higher than dprime when images are shown with no degredation?
